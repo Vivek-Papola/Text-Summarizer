@@ -47,9 +47,9 @@ The app will open in your default browser at localhost:8501
 
    2. Click “Generate Summary” to see:
 
-- Highlights: top extractive sentences
+      - Highlights: top extractive sentences
 
-- Condensed Overview: final abstractive summary
+      - Condensed Overview: final abstractive summary
 
 3. Adjust parameters (in sidebar) for longer/shorter summaries or different beam search settings
 
