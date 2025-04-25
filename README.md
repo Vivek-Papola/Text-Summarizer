@@ -79,4 +79,5 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ## Authors
 
 - [@vivek-papola](https://www.github.com/vivek-papola)
+
 Feel free to star ⭐ the repo if you find SUMMit useful!
